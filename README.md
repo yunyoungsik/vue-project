@@ -1,4 +1,4 @@
-# vue를 이용한 포트폴리오 사이트 만들기
+# vue를 이용한 사이트 만들기
 
 Vue.js는 현대적인 웹 애플리케이션을 만들기 위한 프로그레시브 프레임워크입니다. Vue.js는 사용자 인터페이스를 만들기 위한 라이브러리이며, 웹 애플리케이션의 화면을 동적으로 업데이트하고 상태를 관리하는 데 사용됩니다.
 
@@ -28,10 +28,10 @@ Vue.js의 주요 특징은 다음과 같습니다:
 ## 셋팅
 `npm install`
 √ Project name: ... vue-project
-√ Add TypeScript? ... <span style="color: blue">No</span> / Yes
-√ Add JSX Support? ... No /<span style="color: blue">Yes</span>
-√ Add Vue Router for Single Page Application development? ... No / <span style="color: blue">Yes</span>
-√ Add Pinia for state management? ... <span style="color: blue">No</span> / Yes
-√ Add Vitest for Unit Testing? ... <span style="color: blue">No</span> / Yes
-√ Add an End-to-End Testing Solution? » <span style="color: blue">No</span>
-√ Add Prettier for code formatting? ... No / <span style="color: blue">Yes</span>
+√ Add TypeScript? ... <span style="color.blue">No</span> / Yes
+√ Add JSX Support? ... No /<span style="color.blue">Yes</span>
+√ Add Vue Router for Single Page Application development? ... No / <span style="color.blue">Yes</span>
+√ Add Pinia for state management? ... <span style="color.blue">No</span> / Yes
+√ Add Vitest for Unit Testing? ... <span style="color.blue">No</span> / Yes
+√ Add an End-to-End Testing Solution? » <span style="color.">No</span>
+√ Add Prettier for code formatting? ... No / <span style="color.">Yes</span>
