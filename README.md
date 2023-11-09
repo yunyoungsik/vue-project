@@ -28,10 +28,14 @@ Vue.js의 주요 특징은 다음과 같습니다:
 ## 셋팅
 `npm install`
 √ Project name: ... vue-project
-√ Add TypeScript? ... <span style="color.blue">No</span> / Yes
+√ Add TypeScript? ... <span style="color:#0000FF">No</span> / Yes
 √ Add JSX Support? ... No /<span style="color.blue">Yes</span>
 √ Add Vue Router for Single Page Application development? ... No / <span style="color.blue">Yes</span>
 √ Add Pinia for state management? ... <span style="color.blue">No</span> / Yes
 √ Add Vitest for Unit Testing? ... <span style="color.blue">No</span> / Yes
 √ Add an End-to-End Testing Solution? » <span style="color.">No</span>
 √ Add Prettier for code formatting? ... No / <span style="color.">Yes</span>
+
+gsap 설치 : `npm install gsap`
+sass 설치 : `npm install sass`
+lenis 설치 : `npm install @studio-freight/lenis`
